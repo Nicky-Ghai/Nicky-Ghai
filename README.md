@@ -11,4 +11,4 @@
 
 -💬 Ask me about Artificial Intelligence, Statistics, DataScience, Chess.
 
--📫 How to reach me: 9028798747.
+-📫 How to reach me: nicky.ghai@gmail.com
