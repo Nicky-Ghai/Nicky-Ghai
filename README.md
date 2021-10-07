@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Nicky-Ghai/Nicky-Ghai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -👋 Hi I am Nicky Ghai.
 
 -🧔 I am a data scientist.
